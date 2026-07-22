@@ -3,9 +3,13 @@
 
 
 ## Setting up environment
+First, install running environment by pip.
 ```bash
 pip install -r Model/requirements.txt
+```
 
+
+Then, downloading
 
 ## Test
 
