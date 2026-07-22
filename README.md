@@ -3,14 +3,21 @@
 
 
 ## Setting up environment
+
 First, install running environment by pip.
+
 ```bash
 pip install -r Model/requirements.txt
 ```
 
-
-Then, downloading
-
 ## Test
 
+Follow the steps in /Scripts/test_visualize.ipynb
+The checkpoints can be downloaded from [here]() and should be put in /Model/models
+The sample input image is in /Samples
+
+
 ## Train
+
+Use the script /Model/tutorial_train.py
+Create custom datasets in /Model/tutorial_dataset.py. Note that the dataset should return 1 NCCT image and 3 CECT images in 3 different channels.
