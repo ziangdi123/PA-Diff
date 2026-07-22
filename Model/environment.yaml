@@ -1,4 +1,4 @@
-name: control
+name: padiff
 channels:
   - pytorch
   - defaults

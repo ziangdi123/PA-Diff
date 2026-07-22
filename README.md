@@ -4,10 +4,11 @@
 
 ## Setting up environment
 
-Install running environment by pip.
+Install running environment by Anaconda.
 
 ```bash
-pip install -r Model/requirements.txt
+conda env create -f environment.yaml
+conda activate padiff
 ```
 
 ## Test
