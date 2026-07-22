@@ -13,7 +13,7 @@ pip install -r Model/requirements.txt
 ## Test
 
 Follow the steps in /Scripts/test_visualize.ipynb
-The checkpoints can be downloaded from [here]() and should be put in /Model/models
+The checkpoints can be downloaded from [here](https://pan.baidu.com/s/12Mbfe3ONzn-8Q0hOQyC2qA?pwd=fwq7) and should be put in /Model/models
 The sample input image is in /Samples
 
 
